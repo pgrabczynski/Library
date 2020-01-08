@@ -1,4 +1,4 @@
-#folder bin
+.settings/*
 bin/*
 something.txt
 .classpath
