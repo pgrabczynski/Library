@@ -1,3 +1,5 @@
 #folder bin
 bin/*
 something.txt
+.classpath
+.project
